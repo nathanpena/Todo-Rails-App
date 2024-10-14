@@ -1,5 +1,4 @@
-
-# Odot: To-Do List Application
+# To-Do List Application
 
 Odot is a Ruby on Rails-based to-do list application that allows users to manage their tasks. The project showcases skills in full-stack web development, including user authentication, task management, and test-driven development. It also highlights the ability to build scalable, maintainable software solutions with a strong focus on data management and user interaction.
 
